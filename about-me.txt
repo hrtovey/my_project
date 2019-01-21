@@ -2,3 +2,4 @@ This is an awesome class.
 That's right.
 I said it.
 Adding another line here to show a change.
+Add line to feature branch.
